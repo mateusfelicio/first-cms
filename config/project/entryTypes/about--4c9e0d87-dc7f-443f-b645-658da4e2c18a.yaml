@@ -1,0 +1,33 @@
+fieldLayouts:
+  4886db5f-d75d-40a2-ab3b-c3c90e83419d:
+    tabs:
+      -
+        elements:
+          -
+            fieldUid: 6e9509e8-61a2-41b0-94dc-604d3506a863 # About Image
+            instructions: null
+            label: null
+            required: false
+            tip: null
+            type: craft\fieldlayoutelements\CustomField
+            warning: null
+            width: 100
+          -
+            fieldUid: a75327eb-6f52-4fa0-b9a9-133c5899980a # Post Content
+            instructions: null
+            label: null
+            required: false
+            tip: null
+            type: craft\fieldlayoutelements\CustomField
+            warning: null
+            width: 100
+        name: Content
+        sortOrder: 1
+handle: about
+hasTitleField: false
+name: About
+section: fb95d891-98c5-4b76-8327-17cfc37d59d4 # About
+sortOrder: 1
+titleFormat: '{section.name|raw}'
+titleTranslationKeyFormat: null
+titleTranslationMethod: site

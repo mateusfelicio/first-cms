@@ -1,0 +1,41 @@
+defaultPlacement: end
+fieldLayouts:
+  0981cb6f-8454-4a1e-b125-445dc4a85897:
+    tabs:
+      -
+        elements:
+          -
+            autocapitalize: true
+            autocomplete: false
+            autocorrect: true
+            class: null
+            disabled: false
+            id: null
+            instructions: null
+            label: null
+            max: null
+            min: null
+            name: null
+            orientation: null
+            placeholder: null
+            readonly: false
+            requirable: false
+            size: null
+            step: null
+            tip: null
+            title: null
+            type: craft\fieldlayoutelements\TitleField
+            warning: null
+            width: 100
+        name: Content
+        sortOrder: 1
+handle: blogCategories
+name: 'Blog Categories'
+siteSettings:
+  4a59f10b-4e8b-47a6-81b2-86311741e598: # FirstCraft
+    hasUrls: true
+    template: blog/_category
+    uriFormat: 'blog/category/{slug}'
+structure:
+  maxLevels: 1
+  uid: c2b47a94-4775-4ecf-8c26-a15b13ec5629

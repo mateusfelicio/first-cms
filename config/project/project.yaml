@@ -1,0 +1,48 @@
+dateModified: 1632174870
+email:
+  fromEmail: mateus.felicio@hotmail.com
+  fromName: FirstCraft
+  transportType: craft\mail\transportadapters\Sendmail
+meta:
+  __names__:
+    0e0565b2-da9b-4ea1-9e4f-cf8525bcc768: Text # Text
+    4a59f10b-4e8b-47a6-81b2-86311741e598: FirstCraft # FirstCraft
+    4c9e0d87-dc7f-443f-b645-658da4e2c18a: About # About
+    6e9509e8-61a2-41b0-94dc-604d3506a863: 'About Image' # About Image
+    7fedfd05-fc2b-4e07-b9a9-6491b9053486: 'Simgle Fields' # Simgle Fields
+    8c846158-81fa-43c7-ad47-f1f2eb593412: Image # Image
+    8fd96f34-5373-4f9b-a85d-fa61d3ede00b: Image # Image
+    9e3f5f7b-87e8-4367-9301-89ae0fb89b23: Text # Text
+    33d10cab-5672-4b84-a3bb-7d2118b571fc: 'Feature Image' # Feature Image
+    70a71c9b-834d-4eb3-9d89-9583fc18a2ea: Summary # Summary
+    87dd5b84-6b59-470c-9c78-767dcf582935: 'Post Categories' # Post Categories
+    245f7b1d-5986-46bd-954a-feb474375124: 'Site Description' # Site Description
+    726db28d-741a-413e-8de5-6e51d8b5b409: Blog # Blog
+    839b5007-bb00-4bf7-8151-e67f217b4c4e: Blog # Blog
+    1550b993-a911-450c-a6aa-da6f063ad0da: 'Site Information' # Site Information
+    6467e123-7db4-48ef-a3de-a07b582add4d: General # General
+    72795511-b1b9-4cfe-b5e6-7def8e20bd50: 'Blog Categories' # Blog Categories
+    a75327eb-6f52-4fa0-b9a9-133c5899980a: 'Post Content' # Post Content
+    b20031c6-0865-490a-a99b-6766fb606b49: Common # Common
+    bf0c087a-c268-487f-9349-fa33e37c9b0a: 'Blog Post Fields' # Blog Post Fields
+    d291bc8f-f971-4c36-8077-783848d0dcdb: FirstCraft # FirstCraft
+    ddb5adea-6306-4d63-b996-3fa380050b44: Blog # Blog
+    ed826143-fb6d-4dc1-a3e6-14a58a6241e9: 'Global Fields' # Global Fields
+    fb95d891-98c5-4b76-8327-17cfc37d59d4: About # About
+plugins:
+  redactor:
+    edition: standard
+    enabled: true
+    schemaVersion: 2.3.0
+system:
+  edition: solo
+  live: true
+  name: FirstCraft
+  schemaVersion: 3.7.8
+  timeZone: America/Los_Angeles
+users:
+  allowPublicRegistration: false
+  defaultGroup: null
+  photoSubpath: null
+  photoVolumeUid: null
+  requireEmailVerification: true

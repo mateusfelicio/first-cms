@@ -1,0 +1,51 @@
+fieldLayouts:
+  a95fd0e9-08c5-433a-88e3-35cd5b56094d:
+    tabs:
+      -
+        elements:
+          -
+            fieldUid: 70a71c9b-834d-4eb3-9d89-9583fc18a2ea # Summary
+            instructions: null
+            label: null
+            required: false
+            tip: null
+            type: craft\fieldlayoutelements\CustomField
+            warning: null
+            width: 100
+          -
+            fieldUid: 33d10cab-5672-4b84-a3bb-7d2118b571fc # Feature Image
+            instructions: null
+            label: null
+            required: false
+            tip: null
+            type: craft\fieldlayoutelements\CustomField
+            warning: null
+            width: 100
+          -
+            fieldUid: a75327eb-6f52-4fa0-b9a9-133c5899980a # Post Content
+            instructions: null
+            label: null
+            required: false
+            tip: null
+            type: craft\fieldlayoutelements\CustomField
+            warning: null
+            width: 100
+          -
+            fieldUid: 87dd5b84-6b59-470c-9c78-767dcf582935 # Post Categories
+            instructions: null
+            label: null
+            required: false
+            tip: null
+            type: craft\fieldlayoutelements\CustomField
+            warning: null
+            width: 100
+        name: 'Post Content'
+        sortOrder: 1
+handle: blog
+hasTitleField: true
+name: Blog
+section: 839b5007-bb00-4bf7-8151-e67f217b4c4e # Blog
+sortOrder: 1
+titleFormat: null
+titleTranslationKeyFormat: null
+titleTranslationMethod: site

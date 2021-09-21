@@ -1,0 +1,19 @@
+columnSuffix: wwdgwrrr
+contentColumnType: text
+fieldGroup: ed826143-fb6d-4dc1-a3e6-14a58a6241e9 # Global Fields
+handle: siteDescription
+instructions: ''
+name: 'Site Description'
+searchable: false
+settings:
+  byteLimit: null
+  charLimit: null
+  code: ''
+  columnType: null
+  initialRows: '4'
+  multiline: '1'
+  placeholder: null
+  uiMode: normal
+translationKeyFormat: null
+translationMethod: none
+type: craft\fields\PlainText
