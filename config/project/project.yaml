@@ -1,4 +1,4 @@
-dateModified: 1632174870
+dateModified: 1632333977
 email:
   fromEmail: mateus.felicio@hotmail.com
   fromName: FirstCraft
@@ -16,11 +16,13 @@ meta:
     33d10cab-5672-4b84-a3bb-7d2118b571fc: 'Feature Image' # Feature Image
     70a71c9b-834d-4eb3-9d89-9583fc18a2ea: Summary # Summary
     87dd5b84-6b59-470c-9c78-767dcf582935: 'Post Categories' # Post Categories
+    95f59148-3ea6-42c1-aa6d-d5d675793dfe: Home # Home
     245f7b1d-5986-46bd-954a-feb474375124: 'Site Description' # Site Description
     726db28d-741a-413e-8de5-6e51d8b5b409: Blog # Blog
     839b5007-bb00-4bf7-8151-e67f217b4c4e: Blog # Blog
     1550b993-a911-450c-a6aa-da6f063ad0da: 'Site Information' # Site Information
     6467e123-7db4-48ef-a3de-a07b582add4d: General # General
+    18725a8b-4990-4052-8ff7-fb49d7314ff1: Home # Home
     72795511-b1b9-4cfe-b5e6-7def8e20bd50: 'Blog Categories' # Blog Categories
     a75327eb-6f52-4fa0-b9a9-133c5899980a: 'Post Content' # Post Content
     b20031c6-0865-490a-a99b-6766fb606b49: Common # Common

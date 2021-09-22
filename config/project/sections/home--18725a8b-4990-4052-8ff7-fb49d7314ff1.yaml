@@ -1,0 +1,12 @@
+defaultPlacement: end
+enableVersioning: true
+handle: home
+name: Home
+propagationMethod: all
+siteSettings:
+  4a59f10b-4e8b-47a6-81b2-86311741e598: # FirstCraft
+    enabledByDefault: true
+    hasUrls: true
+    template: home/_entry
+    uriFormat: __home__
+type: single
